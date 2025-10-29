@@ -1,1 +1,16 @@
+# Dados grandes e sensíveis
+#data/faturamento.xlsx
+
+# Arquivos temporários e de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos específicos do Jupyter/VS Code/etc.
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs
+*.log
+
+# ambientes virtuais
 .env
